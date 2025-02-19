@@ -3,6 +3,4 @@ db.sqlite3
 **/migrations/**
 .coverage
 .pytest_cache/
-tests
-**app.log**
-**errors.log**
+.DS_Store
